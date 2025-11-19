@@ -39,8 +39,8 @@ body {
 }
 
 .logo {
-    width: 150px;
-    height: 150px;
+    width: 200px;
+    height: 72px; /* نسبة الأبعاد بناءً على viewBox 2000x720 */
     filter: drop-shadow(0 10px 30px rgba(0, 0, 0, 0.2));
     animation: float 3s ease-in-out infinite;
 }
@@ -162,8 +162,8 @@ body {
     }
 
     .logo {
-        width: 120px;
-        height: 120px;
+        width: 160px;
+        height: 58px;
     }
 
     .social-section {
@@ -196,8 +196,8 @@ body {
     }
 
     .logo {
-        width: 100px;
-        height: 100px;
+        width: 140px;
+        height: 50px;
     }
 
     .social-section {
